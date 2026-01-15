@@ -13,6 +13,7 @@ permalink: /vacancies
 ### Current open positions
 You find the current job openings here:  
 - There is one postdoc [opening 1]({{ site.baseurl }}/downloads/Postdoc_Feinstein.pdf) to work with Dr. Jose Herrero. Please [email](mailto:jherrero@northwell.edu) if you are interested with a CV and two references.
+- Applications are open for the Elmezzi Graduate School of Molecular Medicine. The program offers an accelerated 3-year PhD for MDs, focused on translational research, and provides immersive, hands-on training at the Feinstein Institutes with individualized mentorship from world-renowned faculty. [Apply Here.](https://www.northwell.edu/education-and-resources/elmezzi-graduate-school-of-molecular-medicine/for-prospective-students)
 
 ### Applications for PhD and Postdoc positions
 Even if there is no specific opening listed above, if you are interested in working with us as a PhD student or postdoc, send an email to [Dr. Mehta](mailto:amehta@northwell.edu), [Herrero](mailto:jherreroru@northwell.edu), or [Bickel](mailto:sbickel@northwell.edu)  and briefly state why you are interested and attach a CV, including two references. 
