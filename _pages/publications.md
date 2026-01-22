@@ -51,7 +51,19 @@ permalink: /publications/
   </li>
   <li>
     Dindar SS, Jiang X, Choudhari V, Bickel S, Mehta A, Schevon C, McKhann GM, Friedman D, Flinker A, Mesgarani N. <em> Speaker Identity is Robustly Encoded in Spatial Patterns of Intracranial EEG for Attention Decoding. </em> 
-    <a href="https://pubmed.ncbi.nlm.nih.gov/41427281/" target="_blank">PubMed</a>
+    <a href="https://www.biorxiv.org/content/10.64898/2025.12.10.693470v1.full.pdf" target="_blank">PDF</a> (Dec 2025)
+  </li>
+  <li>
+    van der Heijden K, Patel P, Bickel S, Herrero JL, Mehta AD, Mesgarani N. <em> Joint population coding and temporal coherence link an attended talker's voice and location features in naturalistic multi-talker scenes. </em> 
+    <a href="https://www.jneurosci.org/content/45/47/e0754252025" target="_blank">Journal of Neuroscience</a> (Nov 2025)
+  </li>
+  <li>
+    Mischler G, Li YA, Bickel S, Mehta AD, Mesgarani N. <em> The impact of musical expertise on disentangled and contextual neural encoding of music revealed by generative music models. </em> 
+    <a href="https://www.nature.com/articles/s41467-025-63961-7" target="_blank">Nature</a> (Oct 2025)
+  </li>
+  <li>
+    Assi JY, Bickel S, Greenberg HE, Mehta AD, Similowski T, Herrero JL. <em> Insular routing to orbitofrontal cortex enables breathing awareness. </em> 
+    <a href="https://www.medrxiv.org/content/10.1101/2025.08.28.25334357v1.full.pdf" target="_blank">PDF</a> (Sept 2025)
   </li>
 </ul>
 
