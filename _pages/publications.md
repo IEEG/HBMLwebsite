@@ -49,6 +49,10 @@ permalink: /publications/
     <em>Intracranial EEG.</em> 
     Cognitive Neuroscience Methods. Springer Nature. Book Chapter (2025). In press.
   </li>
+  <li>
+    Dindar SS, Jiang X, Choudhari V, Bickel S, Mehta A, Schevon C, McKhann GM, Friedman D, Flinker A, Mesgarani N. <em> Speaker Identity is Robustly Encoded in Spatial Patterns of Intracranial EEG for Attention Decoding. </em> 
+    <a href="https://pubmed.ncbi.nlm.nih.gov/41427281/" target="_blank">PubMed</a>
+  </li>
 </ul>
 
 ### 2024
