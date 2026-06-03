@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-### 2026
+
 <ul>
   <li>
     Karl-Heinz Nenning, Erkam Zengin, Ting Xu, Elisabeth Freund, Noah Markowitz, Sarah Johnson, Silvia B. Bonelli, Alexandre R. Franco, Stanley J. Colcombe, Michael P. Milham, Ashesh D. Mehta, <strong>Stephan Bickel</strong>. 

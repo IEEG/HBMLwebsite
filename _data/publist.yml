@@ -1,3 +1,14 @@
+- title: "Real-time brain-controlled selective hearing enhances speech perception in multi-talker environments"
+  image: TBG_ARPES.png
+  description: A New paper! More description will be put here.
+  citation: Choudhari, V., Nentwich, M., Johnson, S. et al. Real-time brain-controlled selective hearing enhances speech perception in multi-talker environments. Nat Neurosci (2026).
+  link:
+    url: https://doi.org/10.1038/s41593-026-02281-5
+    display:  <i>Nature Neuroscience, 2026</i>
+  highlight: 1
+  news1: News1 text
+  news2: News2 text
+
 - title: "Reconstructing intelligible speech from the human auditory cortex"
   image: TBG_ARPES.png
   description: A New paper! More description will be put here.

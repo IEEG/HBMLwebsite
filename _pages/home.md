@@ -37,6 +37,21 @@ permalink: /
 
 <p class="lead text-center">We aim to map and modulate functional and pathological networks in the human brain, by working with patients with epilepsy who have electrodes implanted in their brains in preparation for surgery to treat their seizures. <br><br>Our group works alongside the [Epilepsy Monitoring Unit](https://nsuh.northwell.edu/neurosurgery/comprehensive-epilepsy-center) at NorthShore University Hospital and other epilepsy centers in the Northwell System. </p>
 
+<div style="background: linear-gradient(135deg, #1a5276, #2e86c1); border-radius: 10px; padding: 25px 30px; margin-bottom: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">  
+  <a href="{{ site.url }}{{ site.baseurl }}/lifus" style="text-decoration: none; color: white; display: block;">  
+    <div style="display: flex; align-items: center; flex-wrap: wrap;">  
+      <div style="flex: 1; min-width: 250px;">  
+        <span style="background-color: #27ae60; color: white; padding: 4px 12px; border-radius: 20px; font-size: 13px; font-weight: 600; letter-spacing: 0.5px; text-transform: uppercase;">Recruitment Open</span>  
+        <h3 style="color: white; margin-top: 12px; margin-bottom: 8px; font-size: 22px;">Clinical Trial: Low-Intensity Ultrasonic Brain Stimulation for Investigational Treatment of Refractory Fibromyalgia</h3>  
+        <p style="color: #d4e6f1; margin: 0; font-size: 15px;">Learn more about eligibility, study details, and how to participate →</p>  
+      </div>  
+      <div style="margin-left: 20px; font-size: 48px; opacity: 0.3;">  
+        🧠  
+      </div>  
+    </div>  
+  </a>  
+</div>
+
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logos/nwh_fimr_r_vrt_pos_rgb.png" style="width: 300px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logos/ZSOM-Color-Vert.jpg" style="width: 150px; margin-left: 90px">
