@@ -3,7 +3,7 @@ title: "Clinical_Trials"
 layout: page
 excerpt: "HBML"
 sitemap: false
-permalink: /lifus.html
+permalink: /lifus/
 ---
 
 <div class="study-flyer">
