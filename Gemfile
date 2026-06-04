@@ -19,3 +19,4 @@ install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
 gem 'csv'
 gem 'base64'
 gem 'bigdecimal'
+gem "webrick", "~> 1.9"

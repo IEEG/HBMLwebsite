@@ -37,19 +37,16 @@ permalink: /
 
 <p class="lead text-center">We aim to map and modulate functional and pathological networks in the human brain, by working with patients with epilepsy who have electrodes implanted in their brains in preparation for surgery to treat their seizures. <br><br>Our group works alongside the [Epilepsy Monitoring Unit](https://nsuh.northwell.edu/neurosurgery/comprehensive-epilepsy-center) at NorthShore University Hospital and other epilepsy centers in the Northwell System. </p>
 
-<div style="background: linear-gradient(135deg, #1a5276, #2e86c1); border-radius: 10px; padding: 25px 30px; margin-bottom: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">  
-  <a href="{{ site.url }}{{ site.baseurl }}/lifus" style="text-decoration: none; color: white; display: block;">  
-    <div style="display: flex; align-items: center; flex-wrap: wrap;">  
-      <div style="flex: 1; min-width: 250px;">  
-        <span style="background-color: #27ae60; color: white; padding: 4px 12px; border-radius: 20px; font-size: 13px; font-weight: 600; letter-spacing: 0.5px; text-transform: uppercase;">Recruitment Open</span>  
-        <h3 style="color: white; margin-top: 12px; margin-bottom: 8px; font-size: 22px;">Clinical Trial: Low-Intensity Ultrasonic Brain Stimulation for Investigational Treatment of Refractory Fibromyalgia</h3>  
-        <p style="color: #d4e6f1; margin: 0; font-size: 15px;">Learn more about eligibility, study details, and how to participate →</p>  
-      </div>  
-      <div style="margin-left: 20px; font-size: 48px; opacity: 0.3;">  
-        🧠  
-      </div>  
-    </div>  
-  </a>  
+<div class="jumbotron" style="background-color: #f0f8ff;">
+  <h1 class="display-4">Human Brain Mapping Laboratory</h1>
+  <p class="lead">We study how brain dynamics give rise to different cognitive and autonomic functions using intracranial EEG (iEEG, ECoG) and electrical brain stimulation in humans. We are part of The Institute of Bioelectronic Medicine at <a href="https://feinstein.northwell.edu/institutes-researchers/bioelectronic-medicine" target="_blank" style="color: #5DADE2;">The Feinstein Institutes for Medical Research</a> in the Northwell Health System in New York.</p>
+
+  <p style="font-size: 18px; margin-top: 20px;">
+    <strong>Recruitment Open:</strong>
+    <a href="/lifus/">
+      Clinical Trial: Low-Intensity Ultrasonic Brain Stimulation for Investigational Treatment of Refractory Fibromyalgia
+    </a>
+  </p>
 </div>
 
 <figure class="fourth">
