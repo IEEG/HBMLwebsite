@@ -9,10 +9,17 @@ permalink: /publications/
 
 # Publications
 
+### 2026
 
 <ul>
   <li>
-    Karl-Heinz Nenning, Erkam Zengin, Ting Xu, Elisabeth Freund, Noah Markowitz, Sarah Johnson, Silvia B. Bonelli, Alexandre R. Franco, Stanley J. Colcombe, Michael P. Milham, Ashesh D. Mehta, <strong>Stephan Bickel</strong>. 
+    Vishal Choudhari, Maximilian Nentwich, Sarah Johnson, Jose L Herrero, Stephan Bickel, Ashesh D Mehta, Daniel Friedman, Adeen Flinker, Edward F Chang, Nima Mesgarani. 
+    <em>Real-time brain-controlled selective hearing enhances speech perception in multi-talker environments</em>
+    <a href="https://www.nature.com/articles/s41593-026-02281-5" target="_blank"> Nature Neuroscience</a> (2026).
+    <a href="{{ site.url }}{{ site.baseurl }}/downloads/2021doi10.1016.pdf" target="_blank">PDF</a>.    
+  </li>
+  <li>
+    Karl-Heinz Nenning, Erkam Zengin, Ting Xu, Elisabeth Freund, Noah Markowitz, Sarah Johnson, Silvia B. Bonelli, Alexandre R. Franco, Stanley J. Colcombe, Michael P. Milham, Ashesh D. Mehta, Stephan Bickel. 
     <em>Temporal Dynamics of BOLD fMRI Predict Intracranially-Confirmed Seizure Onset Zones in Drug-Resistant Epilepsy.</em>
     <a href="https://doi.org/10.64898/2026.04.15.718821" target="_blank">bioRxiv</a>.
     <a href="{{ site.url }}{{ site.baseurl }}/downloads/2026.04.15.718821v1.full.pdf" target="_blank">PDF</a>.
