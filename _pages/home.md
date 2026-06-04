@@ -35,15 +35,16 @@ permalink: /
   </a>
 </div>
 
-<p class="lead text-center">We aim to map and modulate functional and pathological networks in the human brain, by working with patients with epilepsy who have electrodes implanted in their brains in preparation for surgery to treat their seizures. <br><br>Our group works alongside the [Epilepsy Monitoring Unit](https://nsuh.northwell.edu/neurosurgery/comprehensive-epilepsy-center) at NorthShore University Hospital and other epilepsy centers in the Northwell System. </p>
-
-
-<p class="text-center" style="font-size:18px; margin:30px 0;">
+<p class="text-center" style="font-size:24px; margin:30px 0;">
   <strong>Recruitment Open:</strong>
   <a href="/lifus/">
     Clinical Trial: Low-Intensity Ultrasonic Brain Stimulation for Investigational Treatment of Refractory Fibromyalgia
   </a>
 </p>
+
+
+<p class="lead text-center">We aim to map and modulate functional and pathological networks in the human brain, by working with patients with epilepsy who have electrodes implanted in their brains in preparation for surgery to treat their seizures. <br><br>Our group works alongside the [Epilepsy Monitoring Unit](https://nsuh.northwell.edu/neurosurgery/comprehensive-epilepsy-center) at NorthShore University Hospital and other epilepsy centers in the Northwell System. </p>
+
 
 
 <figure class="fourth">
