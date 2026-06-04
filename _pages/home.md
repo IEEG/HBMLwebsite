@@ -37,7 +37,7 @@ permalink: /
 
 <p class="text-center" style="font-size:24px; margin:30px 0;">
   <strong>Recruitment Open:</strong>
-  <a href="/lifus/">
+  <a href="/downloads/lifus_trial_flyer.png">
     Clinical Trial: Low-Intensity Ultrasonic Brain Stimulation for Investigational Treatment of Refractory Fibromyalgia
   </a>
 </p>
