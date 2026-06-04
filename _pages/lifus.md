@@ -1,9 +1,9 @@
 ---
 title: "Clinical_Trials"
-layout: textlay
+layout: page
 excerpt: "HBML"
 sitemap: false
-permalink: /allnews.html
+permalink: /lifus.html
 ---
 
 <div class="study-flyer">
