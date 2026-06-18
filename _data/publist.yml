@@ -1,3 +1,34 @@
+- title:  Temporal Dynamics of BOLD fMRI Predict Intracranially-Confirmed Seizure Onset Zones in Drug-Resistant Epilepsy.
+  image: TBG_ARPES.png
+  description: A New paper! More description will be put here.
+  citation: Karl-Heinz Nenning, Erkam Zengin, Ting Xu, Elisabeth Freund, Noah Markowitz, Sarah Johnson, Silvia B. Bonelli, Alexandre R. Franco, Stanley J. Colcombe, Michael P. Milham, Ashesh D. Mehta, Stephan Bickel. Temporal Dynamics of BOLD fMRI Predict Intracranially-Confirmed Seizure Onset Zones in Drug-Resistant Epilepsy.
+  link:
+    url: https://www.biorxiv.org/content/10.64898/2026.04.15.718821v1
+    display:  <i>bioRxiv</i>
+  highlight: 1
+  news1: News1 text
+  news2: News2 text
+
+- title: "Dynamic, minimally invasive electrical brain stimulation improves speech perception"
+  image: TBG_ARPES.png
+  description: Serdar Akkol, Jose L. Herrero, Elizabeth Espinal, Noah Markowitz, Timir Datta-Chaudhuri, Ashesh D. Mehta, Stephan Bickel.Dynamic, minimally invasive electrical brain stimulation improves speech perception.Hear. Res.476, 109637 (2026)
+  link:
+    url: https://doi.org/10.1016/j.heares.2026.109637
+    display:  <i>Hear. Res.</i>
+  highlight: 1
+  news1: News1 text
+  news2: News2 text
+
+- title: "Large language models reveal the neural tracking of linguistic context in attended and unattended multi-talker speech"
+  image: TBG_ARPES.png
+  description: Corentin Puffay, Gavin Mischler, Vishal Choudhari, Jonas Vanthornhout,Stephan Bickel, Ashesh D. Mehta, Catherine Schevon, Guy M. McKhann, Hugo Van hamme, Tom Francart, Nima Mesgarani. Large language models reveal the neural tracking of linguistic context in attended and unattended multi-talker speech.Imaging Neurosci.4, IMAG.a.1227 (2026).
+  link:
+    url: https://doi.org/10.1162/imag_a_001227
+    display:  <i>Imaging Neurosci</i>
+  highlight: 1
+  news1: News1 text
+  news2: News2 text
+
 - title: "Real-time brain-controlled selective hearing enhances speech perception in multi-talker environments"
   image: TBG_ARPES.png
   description: A New paper! More description will be put here.
