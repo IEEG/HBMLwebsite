@@ -39,8 +39,8 @@ permalink: /
   <a href="https://hbmlab-nyc.com/vacancies"
      class="alert alert-info"
      style="display:block; font-size:24px; text-decoration:none; padding:20px;">
-    <strong>We're Hiring:</strong> Research Assistant Position Available –
-    Click here to learn more and apply!
+    <strong>We're Hiring a Research Assistant!</strong> 
+    Click here to learn more and apply
   </a>
 </p>
 
