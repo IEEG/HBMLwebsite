@@ -13,6 +13,21 @@ permalink: /publications/
 
 <ul>
   <li>
+    Karl-Heinz Nenning, Erkam Zengin, Ting Xu, Elisabeth Freund, Noah Markowitz, Sarah Johnson, Silvia B. Bonelli, Alexandre R. Franco, Stanley J. Colcombe, Michael P. Milham, Ashesh D. Mehta, Stephan Bickel.
+    <em>Temporal Dynamics of BOLD fMRI Predict Intracranially-Confirmed Seizure Onset Zones in Drug-Resistant Epilepsy.</em>
+    <a href="https://www.biorxiv.org/content/10.64898/2026.04.15.718821v1" target="_blank"> bioRxiv</a>
+  </li>
+  <li>
+    Serdar Akkol, Jose L. Herrero, Elizabeth Espinal, Noah Markowitz, Timir Datta-Chaudhuri, Ashesh D. Mehta, Stephan Bickel.
+    <em>Dynamic, minimally invasive electrical brain stimulation improves speech perception.</em>
+    <a href="https://doi.org/10.1016/j.heares.2026.109637" target="_blank"> Hear. Res</a>.476, 109637 (2026)
+  </li>
+  <li>
+   Corentin Puffay, Gavin Mischler, Vishal Choudhari, Jonas Vanthornhout,Stephan Bickel, Ashesh D. Mehta, Catherine Schevon, Guy M. McKhann, Hugo Van hamme, Tom Francart, Nima Mesgarani.
+    <em>Large language models reveal the neural tracking of linguistic context in attended and unattended multi-talker speech.</em>
+    <a href="https://doi.org/10.1162/imag_a_001227" target="_blank"> Imaging Neurosci</a>(2026)
+  </li>
+  <li>
     Vishal Choudhari, Maximilian Nentwich, Sarah Johnson, Jose L Herrero, Stephan Bickel, Ashesh D Mehta, Daniel Friedman, Adeen Flinker, Edward F Chang, Nima Mesgarani. 
     <em>Real-time brain-controlled selective hearing enhances speech perception in multi-talker environments</em>
     <a href="https://www.nature.com/articles/s41593-026-02281-5" target="_blank"> Nature Neuroscience</a> (2026).
