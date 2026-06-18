@@ -35,6 +35,15 @@ permalink: /
   </a>
 </div>
 
+<p class="text-center" style="margin:30px 0;">
+  <a href="https://hbmlab-nyc.com/vacancies"
+     class="alert alert-info"
+     style="display:block; font-size:24px; text-decoration:none; padding:20px;">
+    <strong>We're Hiring:</strong> Research Assistant Position Available –
+    Click here to learn more and apply!
+  </a>
+</p>
+
 <p class="text-center" style="font-size:24px; margin:30px 0;">
   <strong>Recruitment Open:</strong>
   <a href="/downloads/lifus_trial_flyer.png">
