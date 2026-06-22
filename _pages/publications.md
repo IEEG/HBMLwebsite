@@ -6,12 +6,22 @@ sitemap: false
 permalink: /publications/
 ---
 
-
 # Publications
 
 ### 2026
 
 <ul>
+  <li>
+    Vinay S Raghavan, Jens Madsen, Maximilian Nentwich, Marcin Leszczynski, Arnaud Falchier, Stephan Bickel, Brian E Russ, Lucas C Parra.
+    <em>During natural vision, semantic novelty modulates fixation-related processing in primate cortex</em>
+    <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13015500/" target="_blank"> Preprint.</a>
+  </li>
+  <li>
+    Vishal Choudhari, Maximilian Nentwich, Sarah Johnson, Jose L Herrero, Stephan Bickel, Ashesh D Mehta, Daniel Friedman, Adeen Flinker, Edward F Chang, Nima Mesgarani. 
+    <em>Real-time brain-controlled selective hearing enhances speech perception in multi-talker environments</em>
+    <a href="https://www.nature.com/articles/s41593-026-02281-5" target="_blank"> Nature Neuroscience</a> (2026).
+    <a href="{{ site.url }}{{ site.baseurl }}/downloads/2021doi10.1016.pdf" target="_blank">PDF</a>.    
+  </li>
   <li>
     Karl-Heinz Nenning, Erkam Zengin, Ting Xu, Elisabeth Freund, Noah Markowitz, Sarah Johnson, Silvia B. Bonelli, Alexandre R. Franco, Stanley J. Colcombe, Michael P. Milham, Ashesh D. Mehta, Stephan Bickel.
     <em>Temporal Dynamics of BOLD fMRI Predict Intracranially-Confirmed Seizure Onset Zones in Drug-Resistant Epilepsy.</em>
@@ -22,22 +32,15 @@ permalink: /publications/
     <em>Dynamic, minimally invasive electrical brain stimulation improves speech perception.</em>
     <a href="https://doi.org/10.1016/j.heares.2026.109637" target="_blank"> Hear. Res</a>.476, 109637 (2026)
   </li>
-  <li>
-   Corentin Puffay, Gavin Mischler, Vishal Choudhari, Jonas Vanthornhout,Stephan Bickel, Ashesh D. Mehta, Catherine Schevon, Guy M. McKhann, Hugo Van hamme, Tom Francart, Nima Mesgarani.
-    <em>Large language models reveal the neural tracking of linguistic context in attended and unattended multi-talker speech.</em>
-    <a href="https://doi.org/10.1162/imag_a_001227" target="_blank"> Imaging Neurosci</a>(2026)
+    <li>
+    K.
+    <em>Te.</em>
+    <a href="https://www.biorxiv.org/content/10.64898/2026.04.15.718821v1" target="_blank"> bioRxiv</a>
   </li>
-  <li>
-    Vishal Choudhari, Maximilian Nentwich, Sarah Johnson, Jose L Herrero, Stephan Bickel, Ashesh D Mehta, Daniel Friedman, Adeen Flinker, Edward F Chang, Nima Mesgarani. 
-    <em>Real-time brain-controlled selective hearing enhances speech perception in multi-talker environments</em>
-    <a href="https://www.nature.com/articles/s41593-026-02281-5" target="_blank"> Nature Neuroscience</a> (2026).
-    <a href="{{ site.url }}{{ site.baseurl }}/downloads/2021doi10.1016.pdf" target="_blank">PDF</a>.    
-  </li>
-  <li>
-    Karl-Heinz Nenning, Erkam Zengin, Ting Xu, Elisabeth Freund, Noah Markowitz, Sarah Johnson, Silvia B. Bonelli, Alexandre R. Franco, Stanley J. Colcombe, Michael P. Milham, Ashesh D. Mehta, Stephan Bickel. 
-    <em>Temporal Dynamics of BOLD fMRI Predict Intracranially-Confirmed Seizure Onset Zones in Drug-Resistant Epilepsy.</em>
-    <a href="https://doi.org/10.64898/2026.04.15.718821" target="_blank">bioRxiv</a>.
-    <a href="{{ site.url }}{{ site.baseurl }}/downloads/2026.04.15.718821v1.full.pdf" target="_blank">PDF</a>.
+    <li>
+    Alan Díaz, Idan Tal, Noah Markowitz, Shany Grossman, Elizabeth Espinal, Gelana Tostaeva, Charles Schroeder, Ashesh Mehta, Samuel Neymotin, Stephan Bickel.
+    <em>Classification of image category based on spatially distributed, transient high-frequency events.</em>
+    <a href="https://www.biorxiv.org/content/10.64898/2026.05.15.725481v1.full" target="_blank"> bioRxiv</a>
   </li>
 </ul>
 
@@ -48,6 +51,11 @@ permalink: /publications/
     <em>Motifs of human hippocampal and cortical high frequency oscillations structure processing and memory of naturalistic stimuli.</em>
     <a href="https://www.science.org/doi/10.1126/sciadv.adv0986" target="_blank">Science Advances</a> 11, eadv0986 (2025).
     <a href="{{ site.url }}{{ site.baseurl }}/downloads/Mishra-Motifs of human high-frequency oscillations structure processing and memory of continuous audiovisual narratives-2025-Science Advances.pdf" target="_blank">PDF</a>.    
+  </li>
+  <li>
+   Corentin Puffay, Gavin Mischler, Vishal Choudhari, Jonas Vanthornhout,Stephan Bickel, Ashesh D. Mehta, Catherine Schevon, Guy M. McKhann, Hugo Van hamme, Tom Francart, Nima Mesgarani.
+    <em>Large language models reveal the neural tracking of linguistic context in attended and unattended multi-talker speech.</em>
+    <a href="https://doi.org/10.1162/imag_a_001227" target="_blank"> Imaging Neurosci</a>(2025)
   </li>
   <li>
     Serdar Akkol,  Akash Mishra, Noah Markowitz, Elizabeth Espinal, Menoua Keshishian, Charles E Schroeder, Ashesh D. Mehta, Stephan Bickel. 
@@ -107,7 +115,7 @@ permalink: /publications/
      <a href="https://www.biorxiv.org/content/10.1101/2024.10.08.617305v1" target="_blank">bioRxiv.</a> 2024.08.05.606665 (2024) 
       <a href="{{ site.url }}{{ site.baseurl }}/downloads/biorxiv 2024.10.08.617305v1.Akash HFO Motives.pdf" target="_blank">PDF.</a>
   </li>
-    <li>
+  <li>
     Vishal Choudhari, Cong Han, Stephan Bickel, Ashesh D. Mehta, Catherine Schevon, Guy M. McKhann, Nima Mesgarani. 
     <em>Brain-Controlled Augmented Hearing for Spatially Moving Conversations in Multi-Talker Environments.</em> 
      <a href="https://onlinelibrary-wiley-com.medproxy.hofstra.edu/doi/10.1002/advs.202401379" target="_blank">Adv. Sci..</a> 11, 2401379 (2024) 
