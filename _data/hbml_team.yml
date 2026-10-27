@@ -69,7 +69,7 @@
   website: 
   github:
 
-  - name: Alex Mousazadeh
+- name: Alex Mousazadeh
   photo: AlexHS.jpg
   info: Research Assistant with Jose
   background: MS Biomedical Engineering, Stony Brook University
@@ -100,7 +100,7 @@
   linkedin: https://www.linkedin.com/in/akash-mishra-29a41015b/
   website: 
 
-  - name: Max Nentwich
+- name: Max Nentwich
   photo: max.jpg
   info: Visiting Scientist
   background: PhD Biomedical Engineering, City College of New York (Parra Lab)
