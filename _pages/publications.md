@@ -42,6 +42,11 @@ permalink: /publications/
     <em>Classification of image category based on spatially distributed, transient high-frequency events.</em>
     <a href="https://www.biorxiv.org/content/10.64898/2026.05.15.725481v1.full" target="_blank"> bioRxiv</a>
   </li>
+    <li>
+    Joshua Y. Assi, Stephan Bickel, Harly E. Greenberg, Ashesh D. Mehta, Thomas Similowski, Jose L. Herrero.
+    <em>Insular routing to orbitofrontal cortex enables breathing awareness.</em>
+    <a href="[https://www.biorxiv.org/content/10.64898/2026.05.15.725481v1.full](https://www.science.org/doi/10.1126/sciadv.aeb3326)" target="_blank"> bioRxiv</a>
+  </li>
 </ul>
 
 ### 2025
