@@ -30,15 +30,6 @@
   linkedin:
   website: 
 
-- name: Max Nentwich
-  photo: max.jpg
-  info: PostDoc with Stephan
-  background: PhD Biomedical Engineering, City College of New York (Parra Lab)
-  email: mnentwich@northwell.edu
-  bluesky: https://bsky.app/profile/maxnentwich.bsky.social
-  linkedin:
-  website: https://github.com/MaxNentwich
-
 - name: Christine Chesebrough
   photo: ChristineHeadshot4x5.jpg
   info: PostDoc with Stephan
@@ -55,6 +46,42 @@
   linkedin: 
   website: 
 
+- name: Tylor Harlow
+  photo:
+  info: Postdoc with Stephan 
+  background: PhD Neuroscience, University of Connecticut
+  email: tharlow@northwell.edu
+  linkedin: https://www.linkedin.com/in/tylor-harlow-335838187/
+
+- name: Andrew Zheng
+  photo:
+  info: MD/PhD student with Jose
+  background: 
+  email: azheng9@northwell.edu
+  linkedin: 
+
+- name: Jessica Weber
+  photo: JessHeadshot.jpg
+  info: Research Assistant HBMLab
+  background: MS Biomedical Engineering, University of Pittsburgh
+  email: jweber14@northwell.edu 
+  linkedin: https://www.linkedin.com/in/jessica-weber-41a44b14b/
+  website: 
+  github:
+
+  - name: Alex Mousazadeh
+  photo: 
+  info: Research Assistant with Jose
+  background: MS Biomedical Engineering, Stony Brook University
+  email: amousazadeh@northwell.edu
+  linkedin: https://www.linkedin.com/in/alex-mousazadeh/
+
+- name: Yixing Wang
+  photo: 
+  info: Research Assistant HBMLab
+  background: MS Mathematical Sciences, New York University
+  email: ywang35@northwell.edu
+  linkedin: https://www.linkedin.com/in/yixing-w/
 
 - name: Elizabeth Espinal
   photo: elizabeth_espinal.jpg
@@ -73,13 +100,14 @@
   linkedin: https://www.linkedin.com/in/akash-mishra-29a41015b/
   website: 
 
-- name: Samruddhi Anikhindi
-  photo: samruddhi_img.jpg
-  info: Research Assistant
-  background: MS Biomed. Engineering, Georgia Inst. of Tech., Atlanta, GA
-  email: sanikhindi@northwell.edu
-  linkedin: https://www.linkedin.com/in/samruddhi-anikhindi-88263119b/
-  website: 
+  - name: Max Nentwich
+  photo: max.jpg
+  info: Visiting Scientist
+  background: PhD Biomedical Engineering, City College of New York (Parra Lab)
+  email: mnentwich@northwell.edu
+  bluesky: https://bsky.app/profile/maxnentwich.bsky.social
+  linkedin:
+  website: https://github.com/MaxNentwich
 
 - name: Noah Markowitz
   photo: Noah.jpg
@@ -92,28 +120,19 @@
   
 - name: Sarah Johnson
   photo: sjohnson.jpg
-  info: Research Assistant HBMLab
+  info: Visiting Scholar
   background: BS Microbiology, Miami University
   email: sjohnson74@northwell.edu
   linkedin: https://www.linkedin.com/in/sarahgrjohnson/
   website: 
   github: https://github.com/sarahgrjohnson
 
-- name: Jessica Weber
-  photo: JessHeadshot.jpg
-  info: Research Assistant HBMLab
-  background: MSc Biomed. Engineering, University of Pittsburg
-  email: jweber14@northwell.edu 
-  linkedin: https://www.linkedin.com/in/jessica-weber-41a44b14b/
-  website: 
-  github:
-
 - name: Joshua Assi
   photo: jassi.jpg
-  info: Research Assistant with Jose
+  info: Visiting Scholar
   background: BS Neuroscience, Biophysics, Brown University
   email: jassi@northwell.edu
   linkedin: https://www.linkedin.com/in/joshua-assi-a35145203/
   website: 
-  github: https://github.com/
+  github: 
   
