@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '3.1.3' # Replace with your desired Ruby version
+ruby '3.1.7' # Replace with your desired Ruby version
 
 #gem "jekyll", ">= 3.6.3"
 gem "jekyll", "~> 4.2.0"
